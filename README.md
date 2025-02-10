@@ -1,3 +1,3 @@
 # TUMTraffic-VideoQA-Baseline
 
-Model and dataset uploading.
+Baseline TUMTraffic-Qwen Model and dataset uploading.
