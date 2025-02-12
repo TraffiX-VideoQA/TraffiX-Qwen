@@ -1,3 +1,3 @@
 # TUMTraffic-VideoQA-Baseline
 
-Baseline TUMTraffic-Qwen Model and dataset uploading.
+Dataset and TUMTraffic-Qwen Baseline will be uploaded soon. Please stay attentive.
