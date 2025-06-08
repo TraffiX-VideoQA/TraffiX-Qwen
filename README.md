@@ -8,7 +8,7 @@ The **TUMTraffic-VideoQA dataset** and the **TUMTraffic-Qwen baseline code** wil
 
 ### 📌 **TODO List**  
 - [ ] Release **TUMTraffic-VideoQA-Mini** dataset 📤  *(Coming Soon)*
-- [ ] Open-source **TUMTraffic-Qwen** baseline code 💻 *(Coming Soon)*  
+- [ ] Open-source **TUMTrafiX-Qwen** baseline code 💻 *(Coming Soon)*  
 - [ ] Publish the full **TUMTraffic-VideoQA** dataset 📂 *(Coming Soon)*  
 
 ---
