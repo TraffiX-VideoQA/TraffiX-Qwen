@@ -6,7 +6,7 @@
 
 ## Overview
 
-**TraffiX-Qwen** is a multimodal model for traffic video understanding, introduced as the baseline for the **TUMTraf VideoQA** benchmark.  
+**TraffiX-Qwen** is a multimodal model for traffic video understanding, introduced as the baseline for the [**TUMTraf VideoQA**](https://openreview.net/forum?id=Yfoi5O68rf) benchmark.  
 
 
 ## Quick Start
