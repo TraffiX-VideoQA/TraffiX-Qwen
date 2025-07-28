@@ -1,0 +1,32 @@
+# Core dependencies for TUMTraffic-QA evaluation and inference
+# Core ML and deep learning
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.40.0
+accelerate==0.29.3
+deepspeed==0.14.2
+bitsandbytes==0.41.0
+
+# Computer vision and video processing
+opencv-python==4.8.1.78
+Pillow==10.0.1
+decord==0.6.0
+av==10.0.0
+
+# Data processing and evaluation
+numpy==1.26.1
+scipy==1.13.0
+scikit-learn==1.2.2
+pycocoevalcap==1.2
+tabulate==0.9.0
+
+# Utilities
+tqdm==4.66.2
+shortuuid==1.0.13
+einops==0.6.1
+einops-exts==0.0.4
+ftfy==6.2.0
+
+# Optional: For advanced features
+# flash-attn==2.5.7  # Uncomment if using flash attention
+# timm==0.9.16       # Uncomment if using vision models
